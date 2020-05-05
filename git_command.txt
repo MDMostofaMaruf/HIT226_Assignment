@@ -1,0 +1,16 @@
+
+how to clone--
+git clone https://github.com/MDMostofaMaruf/HIT226_Assignment
+open gitbush in the cloned folder
+
+
+git ls -a (to see the folder)
+
+git staus (to see the changes)
+
+how to push--
+
+git add .
+git -m commit " "
+git push
+
