@@ -11,6 +11,6 @@ git staus (to see the changes)
 how to push--
 
 git add .
-git -m commit " "
+git  commit -m " "
 git push
 
